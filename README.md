@@ -4,6 +4,8 @@ My pytorch implementation was inpired by the paper paper below:
 
 > Yifang Qin, Hongjun Wu, Wei Ju, Xiao Luo, Ming Zhang (2023). A Diffusion model for POI recommendation
 
+
+
 I propose an accelerated dual-core diffusion model for the next POI recommen- dations (DC-POI+). The model encodes category data using Bidirectional Encoder Representations from Transformers (BERTs) for natural language processing before applying graph encoding modules. I leverage the diffusion process for both location sequences and category sequences by introducing a preconditioning factor. This preconditioning helps speed up the diffusion process and converges the targeted dataset faster. I evaluate the model using real- world check-in data from Foursquare platforms. Ablation studies and hyper-parameter analysis provide a comprehensive evaluation of the model’s performance, and potential future improve- ments are discussed in the end.
 
 ## Environment Requirement
