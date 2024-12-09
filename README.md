@@ -1,4 +1,4 @@
-# DC-POI+
+# Accelerating Dual-Core Diffusion Model for the Next POI Recommendation
 
 My pytorch implementation was inpired by the paper paper below:
 
