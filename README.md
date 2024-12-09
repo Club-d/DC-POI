@@ -3,10 +3,10 @@
 ## Environment Requirement
 The code has been tested running under Python 3.9.13. The required packages are as follows:
 
--pytorch == 1.11.0
--torchsde == 0.2.4
--torch_geometric (PyG) == 2.0.4
--pandas == 1.5.3
+- pytorch == 1.11.0
+- torchsde == 0.2.4
+- torch_geometric (PyG) == 2.0.4
+- pandas == 1.5.3
 
 
 Running Example
