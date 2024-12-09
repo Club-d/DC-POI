@@ -9,11 +9,13 @@ The code has been tested running under Python 3.9.13. The required packages are 
 - pandas == 1.5.3
 
 
-Running Example
-For example, to generate Foursquare-Tokyo data for Diff-POI, first change the working directory into ~/.data and run:
+## Running Example
+For example, to generate Foursquare `tky` data for DC-POI+, first change the working directory into `~/.data` and run:
 
+```
 python process_data_tky-and-nyc.py
 which will generate processed data files under the directory ~/processed/tky/.
+```
 
 To conduct experiment on Foursquare-Tokyo, run:
 
